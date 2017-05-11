@@ -1,0 +1,6 @@
+node_modules/
+typings/
+.idea
+#Exclude tsc generated files
+app/*.map
+app/*.js
